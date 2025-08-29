@@ -38,4 +38,4 @@ This project provides an in-depth analysis of Blinkit's sales data to uncover in
 
 📬 **Outcome**
 
-The analysis highlights the key drivers of Blinkit’s sales, showing which product categories, outlet types, and regions perform best. These insights can support data-driven strategies for improving revenue and customer satisfaction.
+The analysis highlights the key drivers of Blinkit’s sales, showing which product categories, outlet types, and regions perform best. These insights can support data-driven strategies for improving revenue, customer satisfaction, inventory planning, marketing strategies and expansion decisions.
